@@ -1,2 +1,4 @@
 # TINDOG
-TINDER FOR DOGS!!
+TINDER FOR DOGS!! (thanks to bootstrap)
+
+https://goku1301.github.io/TINDOG/
